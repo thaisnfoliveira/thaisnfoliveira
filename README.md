@@ -2,13 +2,6 @@
 
 Me chamo Thais Nicole Freitas de Oliveira, tenho 20 anos e sou natural da Paraíba. Concluí o ensino médio no IFPB, com o curso técnico em informática. Atualmente, estou cursando o bacharelado em Ciencia da Computação na UFCG. 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
